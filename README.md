@@ -22,4 +22,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=scriptshredder&show_icons=true&locale=en" alt="scriptshredder" /></p>
 
-<p><img align="center" src="" alt="scriptshredder" /></p>
+<p><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/main/public/assets/snake.svg" alt="scriptshredder" /></p>
