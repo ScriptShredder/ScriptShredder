@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=scriptshredder" alt="scriptshredder" /></a> </p>
 
-- 🌱 I’m currently learning **C#, Java and Cpp**
+- 🌱 I’m currently learning **C#, Java & Cpp**
 
-- 💬 Ask me about **Python, Git, JavaScript, Qt**
+- 💬 Ask me about **Python, C, Git, JavaScript, Qt**
 
 - ⚡ Fun fact **Im musician**
 
@@ -22,4 +22,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=scriptshredder&show_icons=true&locale=en" alt="scriptshredder" /></p>
 
-<p><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/main/public/assets/snake.svg" alt="scriptshredder" /></p>
+<p><img align="center" src="" alt="scriptshredder" /></p>
